@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there
+Introvert,  with machine learning as the main research direction
 
 <!--
 **merosy07/merosy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
